@@ -1,0 +1,37 @@
+<Parameters xmlns="http://hl7.org/fhir">
+    <parameter>
+        <name value="personIdentifier"/>
+        <valueIdentifier>
+            <system value="https://ths-greifswald.de/fhir/gics/identifiers/MPI"/>
+            <value value="1"/>
+        </valueIdentifier>
+    </parameter>
+    <parameter>
+        <name value="personIdentifier"/>
+        <valueIdentifier>
+            <system value="https://ths-greifswald.de/fhir/gics/identifiers/MPI"/>
+            <value value="123456"/>
+        </valueIdentifier>
+    </parameter>
+    <parameter>
+        <name value="personIdentifier"/>
+        <valueIdentifier>
+            <system value="https://ths-greifswald.de/fhir/gics/identifiers/MPI"/>
+            <value value="1301000000000"/>
+        </valueIdentifier>
+    </parameter>
+    <parameter>
+        <name value="personIdentifier"/>
+        <valueIdentifier>
+            <system value="https://ths-greifswald.de/fhir/gics/identifiers/MPI"/>
+            <value value="1301000000036"/>
+        </valueIdentifier>
+    </parameter>
+    <parameter>
+        <name value="personIdentifier"/>
+        <valueIdentifier>
+            <system value="https://ths-greifswald.de/fhir/gics/identifiers/MPI"/>
+            <value value="23"/>
+        </valueIdentifier>
+    </parameter>
+</Parameters>
