@@ -12,7 +12,7 @@ def print_hi():
     import xml.dom.minidom
     import psycopg2
 
-    conn = psycopg2.connect(database="postgres", user="postgres", password="Roin120350", host="127.0.0.1", port="5432")
+    conn = psycopg2.connect(database="postgres", user="postgres", password="", host="127.0.0.1", port="5432")
     cur = conn.cursor()
     print("Database Connected....")
 
